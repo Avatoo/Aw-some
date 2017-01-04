@@ -1,4 +1,4 @@
-# awesome-shiny
+# Awesome-shiny
 Awesome R shiny applications
 ------
 - [View package downloads over time](http://varianceexplained.org/r/cran-view/) @
