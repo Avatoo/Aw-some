@@ -27,14 +27,12 @@ Bridge names and ethnicity
 - [colordistance](https://cran.r-project.org/web/packages/colordistance/)
 Clustering by color
 
-- Color palettes packages:sparkles:
-
 <details>
 <summary> Color palettes packages </summary>
-viridis: Colorblindness friendly, python flavoured
-wesanderson: Borrow taste for color from master
-dichromt: Contrast colors
-RColorBrewer: You deserve it 
-[towards-yet-another-r-colour-palette](http://blenditbayes.blogspot.co.uk/2014/05/towards-yet-another-r-colour-palette.html)
+- viridis: Colorblindness friendly, python flavoured
+- wesanderson: Borrow taste for color from master
+- dichromt: Contrast colors
+- RColorBrewer: You deserve it 
+- [towards-yet-another-r-colour-palette](http://blenditbayes.blogspot.co.uk/2014/05/towards-yet-another-r-colour-palette.html)
 
 </details>
