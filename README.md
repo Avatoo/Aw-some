@@ -1,5 +1,5 @@
 # Awesome - down the rabbit hole
-Awesome R hiny applications
+Awesome R Shiny applications
 ------
 - [View package downloads over time](http://varianceexplained.org/r/cran-view/) @
 https://dgrtwo.shinyapps.io/cranview/
