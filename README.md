@@ -1,4 +1,4 @@
-# Awesome - down the rabbit hole
+# Awesome - down the rabbit hole :sparkles:
 Awesome R Shiny applications
 ------
 - [View package downloads over time](http://varianceexplained.org/r/cran-view/) @
@@ -28,7 +28,8 @@ Bridge names and ethnicity
 Clustering by color
 
 <details>
-<summary> Color palettes packages </summary>
+<summary> Color palettes packages :spades: </summary>
+  
 - viridis: Colorblindness friendly, python flavoured
 - wesanderson: Borrow taste for color from master
 - dichromt: Contrast colors
