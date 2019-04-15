@@ -1,6 +1,9 @@
 # Awesome - down the rabbit hole :sparkles:
 Awesome R Shiny applications
 ------
+- [Shiny Lego](https://rpodcast.shinyapps.io/shinylego) @
+Shiny application to create LEGO mosaics directly from R
+
 - [View package downloads over time](http://varianceexplained.org/r/cran-view/) @
 https://dgrtwo.shinyapps.io/cranview/
 
